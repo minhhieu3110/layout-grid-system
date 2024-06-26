@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.cus{
+    border:  solid 1px ;
+    background: red;
+}
